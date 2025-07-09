@@ -27,7 +27,7 @@ Jitsi Meet is a secure, open-source video conferencing app that runs in your bro
 - Click the **info icon** (top right)
 - Copy the meeting link and share it with participants
 
-  ![Meeting UI](jitsi-meeting-ui.png)
+  ![Meeting UI](./images/jitsi-meeting-ui.png)
 
 ---
 
@@ -41,7 +41,7 @@ Jitsi Meet is a secure, open-source video conferencing app that runs in your bro
 3. Click **Share**
 
 > 📌 Tip: Only one person can share their screen at a time.
-![Screen sharing](jitsi-screen-sharing.png)
+![Screen sharing](./images/jitsi-screen-sharing.png)
 
 ---
 
@@ -52,7 +52,7 @@ Jitsi Meet is a secure, open-source video conferencing app that runs in your bro
   - See if encryption is active
 - Use a **unique room name** to prevent uninvited guests
 
-  ![Security options](jitsi-security.png)
+  ![Security options](./images/jitsi-security.png)
 
 ---
 
