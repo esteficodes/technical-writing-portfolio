@@ -18,7 +18,7 @@ Jitsi Meet is a secure, open-source video conferencing app that runs in your bro
 3. Click **Start meeting**
 4. Allow access to your **camera** and **microphone** if prompted
 
-![Jitsi Meet homepage](jitsi-home.png)
+![Jitsi Meet homepage](./images/jitsi-home.png)
 
 ---
 
